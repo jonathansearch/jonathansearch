@@ -4,14 +4,14 @@
 
 # Jonathan Evina — RATISS Labs 🇨🇲
 
-**18 ans · Yaoundé, Cameroun · Fondateur & unique auteur de RATISS Labs**
+**18 years old · Yaoundé, Cameroon · Founder & sole author of RATISS Labs**
 
-*Science ouverte, scellée, reproductible — construite avec un téléphone et des agents IA.*
+*Open, sealed, reproducible science — built with a phone and AI agents.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-jonathansearch-black)](https://github.com/jonathansearch)
 [![Site](https://img.shields.io/badge/Site-ratiss--labs-teal)](https://jonathansearch.github.io/ratiss-labs-site/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4092--5313-a6ce39)](https://orcid.org/0009-0000-4092-5313)
-[![Licence des dépôts](https://img.shields.io/badge/dépôts-MIT-yellow)](https://github.com/jonathansearch/RATISS-PHOTON/blob/main/LICENSE)
+[![Repository license](https://img.shields.io/badge/repositories-MIT-yellow)](https://github.com/jonathansearch/RATISS-PHOTON/blob/main/LICENSE)
 
 <img src="https://raw.githubusercontent.com/jonathansearch/RATISS-ETALONS/main/assets/banner.jpg" width="100%" alt="RATISS Labs"/>
 
@@ -19,89 +19,89 @@
 
 ---
 
-## 👋 Qui je suis
+## 👋 Who I am
 
-Salut ! Moi c'est **Jonathan Evina**, 18 ans, de Yaoundé au Cameroun. Je dirige **RATISS Labs**,
-un laboratoire de recherche **indépendant et mono-auteur** : pas d'université, pas d'équipe, pas
-de financement — un téléphone, des agents d'intelligence artificielle sous mon commandement, et
-une méthode que je ne négocie pas. Tout ce que le labo produit est **public, open source (MIT),
-scellé cryptographiquement et rejouable en une commande**.
+Hi! I'm **Jonathan Evina**, 18 years old, from Yaoundé, Cameroon. I run **RATISS Labs**,
+an **independent, single-author** research laboratory: no university, no team, no
+funding — a phone, artificial intelligence agents under my command, and a method I do not
+negotiate. Everything the lab produces is **public, open source (MIT),
+cryptographically sealed and replayable in one command**.
 
-Rien de ce que je publie n'est évalué par les pairs, et je ne revendique aucun diplôme ni titre
-institutionnel — je le dis partout, parce que l'honnêteté fait partie de la méthode.
+Nothing I publish is peer-reviewed, and I claim no degree or institutional title —
+I say it everywhere, because honesty is part of the method.
 
-## 🧭 La gouvernance du labo (claire, non négociable)
+## 🧭 The lab's governance (clear, non-negotiable)
 
-> **Un humain décide, des IA exécutent.**
+> **One human decides, AIs execute.**
 
-- **Le chef (moi)** : les questions, les visions, les ordres, les verdicts finaux.
-- **Les agents IA** (Arena Agent, OpenHands…) : le code, les calculs, les vérifications — sous commandement.
+- **The chief (me)**: the questions, the visions, the orders, the final verdicts.
+- **The AI agents** (Arena Agent, OpenHands…): the code, the computations, the verifications — under command.
 
-Jamais l'IA ne décide. Jamais le chef ne prétend avoir fait tourner ce qu'il n'a pas fait tourner.
+The AI never decides. The chief never claims to have run what he did not run.
 
-## ⚖️ La méthode (c'est elle, la signature)
+## ⚖️ The method (this is the signature)
 
-1. **Critères écrits AVANT l'expérience** — jamais ajustés après coup. Un test qui ne peut pas échouer est interdit.
-2. **Témoins obligatoires** — chaque résultat a son contrôle qui doit donner zéro.
-3. **Les échecs sont publiés comme les succès** — hypothèses réfutées, bugs, moteurs invalidés : tout est public.
-4. **Sceaux SHA-256** — chaque dépôt est scellé ; toute modification casse le sceau, exprès.
-5. **Étiquettes de terrain jamais mélangées** — 🧮 calcul · 🛰️ QPU réel : on dit toujours **où** le chiffre a été mesuré.
-6. **Rejouable en une commande** — un étranger doit pouvoir vérifier sans demander la permission.
+1. **Criteria written BEFORE the experiment** — never adjusted after the fact. A test that cannot fail is forbidden.
+2. **Mandatory controls** — every result has its control that must give zero.
+3. **Failures are published like successes** — refuted hypotheses, bugs, invalidated engines: everything is public.
+4. **SHA-256 seals** — every repository is sealed; any modification breaks the seal, on purpose.
+5. **Field tags never mixed** — 🧮 computation · 🛰️ real QPU: we always say **where** the number was measured.
+6. **Replayable in one command** — a stranger must be able to verify without asking permission.
 
-*« On mesure, on nomme, on publie. »* — *« Prouver, pas prétendre. »*
+*"We measure, we name, we publish."* — *"Prove, not pretend."*
 
-## 🔥 La semaine folle (20 → 28 septembre 2026)
+## 🔥 The crazy week (September 20 → 28, 2026)
 
-Quatorze dépôts en neuf jours. Les temps forts :
+Fourteen repositories in nine days. The highlights:
 
-| Dépôt | Ce qu'il démontre |
+| Repository | What it demonstrates |
 |---|---|
-| [**ratiss-focal**](https://github.com/jonathansearch/ratiss-focal) | La cohérence émerge-t-elle de l'information pure ? **94 tests pré-enregistrés**, 13 unifications, **294 points mesurés sur de vrais qubits IBM** |
-| [**ratiss-continuums**](https://github.com/jonathansearch/ratiss-continuums) | Le simulateur du tissu : franges de Berry à 2 qubits intriqués (réel, ibm_fez), loi de décohérence **1/τ ∝ √N** |
-| [**synchrotron-24**](https://github.com/jonathansearch/synchrotron-24) | Une cosmologie **mesurée, pas postulée** : 5 clés/5, H·t = 1.00 émergent au Big Bang, le « fantôme » (gravité = mémoire topologique) · **385 points QPU réels** |
-| [**GCR**](https://github.com/jonathansearch/GCR) | Le Grand Collisionneur de Ratiss : étincelles **topologiques** (trous b1 = 2–4) sous choc, seuil mesuré, 0 clip |
-| [**ratiss-dose12**](https://github.com/jonathansearch/ratiss-dose12) | **12 chantiers testables à $0** : VQE 3/5 exact mais 0/5 sous bruit, 12 prédictions datées et falsifiables |
-| [**RATISS-QVM**](https://github.com/jonathansearch/RATISS-QVM) | Un ordinateur quantique virtuel à 300 qubits, **jumeaux des backends IBM validés hors échantillon**, T1/T2 dérivés du banc (cQED) |
-| [**RATISS-NAVIER**](https://github.com/jonathansearch/RATISS-NAVIER) | Navier-Stokes 3D en particules SPH : enstrophie **Ω = 72 122**, 0 crash, témoin parfait |
-| [**RATISS-FUSION**](https://github.com/jonathansearch/RATISS-FUSION) | L'ignition mesurée : compression ×2.4, **428 fusions**, gain Q pic **101** — avec la vraie réactivité Bosch-Hale |
-| [**RATISS-NUCLEAIRE**](https://github.com/jonathansearch/RATISS-NUCLEAIRE) | Du hot-spot à la **supernova jouet** (effondrement → flash → explosion) + moteur unifié turbulence↔fusion |
-| [**RATISS-Omni**](https://github.com/jonathansearch/RATISS-Omni) | Le pilote de l'écosystème : boucle fermée réelle, dé-tarage ×8 quand la cohérence s'effondre, red-team **47/47** |
-| [**RATISS-ARCHIVES**](https://github.com/jonathansearch/RATISS-ARCHIVES) | La mémoire scellée du labo : MANIFESTE SHA-256 quotidien, **86 tâches IBM rapatriées bit-identiques** |
-| [**DISCORD-RATISS**](https://github.com/jonathansearch/DISCORD-RATISS) | L'agent héraldiste : **22 salons annoncés en un run**, secrets jamais exposés, mode purge |
-| [**RATISS-ETALONS**](https://github.com/jonathansearch/RATISS-ETALONS) | L'audit exécutable : 4 étalons scientifiques, **14/16**, 3 instruments faux au 1er essai, 7 corrections déclarées |
-| [**RATISS-PHOTON**](https://github.com/jonathansearch/RATISS-PHOTON) | Le photon multi-chemins : **8 396 800 chemins** reconstruits, fenêtre de Canton atteinte (95,9–96,8 %) — et le hasard quantique qui **émerge du bain thermique** (T = 0 K → déterminisme) |
+| [**ratiss-focal**](https://github.com/jonathansearch/ratiss-focal) | Does coherence emerge from pure information? **94 pre-registered tests**, 13 unifications, **294 points measured on real IBM qubits** |
+| [**ratiss-continuums**](https://github.com/jonathansearch/ratiss-continuums) | The tissue simulator: Berry fringes with 2 entangled qubits (real, ibm_fez), decoherence law **1/τ ∝ √N** |
+| [**synchrotron-24**](https://github.com/jonathansearch/synchrotron-24) | A cosmology **measured, not postulated**: 5 keys/5, H·t = 1.00 emerging at the Big Bang, the "ghost" (gravity = topological memory) · **385 real QPU points** |
+| [**GCR**](https://github.com/jonathansearch/GCR) | The Great Ratiss Collider: **topological** sparks (holes b1 = 2–4) under shock, measured threshold, 0 clip |
+| [**ratiss-dose12**](https://github.com/jonathansearch/ratiss-dose12) | **12 testable $0 projects**: VQE 3/5 exact but 0/5 under noise, 12 dated and falsifiable predictions |
+| [**RATISS-QVM**](https://github.com/jonathansearch/RATISS-QVM) | A 300-qubit virtual quantum computer, **twins of the IBM backends validated out of sample**, T1/T2 derived from the bench (cQED) |
+| [**RATISS-NAVIER**](https://github.com/jonathansearch/RATISS-NAVIER) | 3D Navier-Stokes in SPH particles: enstrophy **Ω = 72,122**, 0 crash, perfect control |
+| [**RATISS-FUSION**](https://github.com/jonathansearch/RATISS-FUSION) | Measured ignition: compression ×2.4, **428 fusions**, peak gain Q **101** — with the real Bosch-Hale reactivity |
+| [**RATISS-NUCLEAIRE**](https://github.com/jonathansearch/RATISS-NUCLEAIRE) | From hot-spot to **toy supernova** (collapse → flash → explosion) + unified turbulence↔fusion engine |
+| [**RATISS-Omni**](https://github.com/jonathansearch/RATISS-Omni) | The ecosystem's driver: real closed loop, ×8 de-tariffing when coherence collapses, red-team **47/47** |
+| [**RATISS-ARCHIVES**](https://github.com/jonathansearch/RATISS-ARCHIVES) | The lab's sealed memory: daily SHA-256 MANIFEST, **86 IBM tasks repatriated bit-identical** |
+| [**DISCORD-RATISS**](https://github.com/jonathansearch/DISCORD-RATISS) | The herald agent: **22 channels announced in one run**, secrets never exposed, purge mode |
+| [**RATISS-ETALONS**](https://github.com/jonathansearch/RATISS-ETALONS) | The executable audit: 4 scientific standards, **14/16**, 3 instruments wrong on the first try, 7 declared corrections |
+| [**RATISS-PHOTON**](https://github.com/jonathansearch/RATISS-PHOTON) | The multi-path photon: **8,396,800 paths** reconstructed, Canton window reached (95.9–96.8%) — and quantum randomness **emerging from the thermal bath** (T = 0 K → determinism) |
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/jonathansearch/RATISS-PHOTON/main/assets/vue3d.gif" width="70%" alt="Vue 3D RATISS-PHOTON"/>
+<img src="https://raw.githubusercontent.com/jonathansearch/RATISS-PHOTON/main/assets/vue3d.gif" width="70%" alt="RATISS-PHOTON 3D view"/>
 </div>
 
-## 🧬 Et après la semaine folle
+## 🧬 And after the crazy week
 
-- [**ratiss-bio**](https://github.com/jonathansearch/ratiss-bio) — bio-topologie quantique : les superpouvoirs de la chauve-souris (longévité SIRT6, écholocation Prestin, hibernation CIRBP) mesurés par homologie persistante, **validés sur QPU réel**, réparés par mutagenèse dirigée — **3 ADN codon-optimisés prêts à commander** + dossier institution. *In silico, assumé.*
-- [**RATISS-QPU-AMBIENT**](https://github.com/jonathansearch/RATISS-QPU-AMBIENT) — un processeur quantique **à température ambiante** (centres NV du diamant) : simulateur validé à **98,4 %** contre IBM Marrakesh, et les **plans publics d'un banc NV constructible (~3,5 M FCFA)** — le prix d'une voiture.
-- [**RATISS-DEEPDIVE**](https://github.com/jonathansearch/RATISS-DEEPDIVE) — 14 deep dives PDF (75 pages) racontant toute la campagne.
+- [**ratiss-bio**](https://github.com/jonathansearch/ratiss-bio) — quantum bio-topology: the bat's superpowers (SIRT6 longevity, Prestin echolocation, CIRBP hibernation) measured by persistent homology, **validated on a real QPU**, repaired by directed mutagenesis — **3 codon-optimized DNAs ready to order** + institutional dossier. *In silico, owned.*
+- [**RATISS-QPU-AMBIENT**](https://github.com/jonathansearch/RATISS-QPU-AMBIENT) — a **room-temperature** quantum processor (diamond NV centers): simulator validated at **98.4%** against IBM Marrakesh, and the **public blueprints of a buildable NV bench (~3.5 M FCFA)** — the price of a car.
+- [**RATISS-DEEPDIVE**](https://github.com/jonathansearch/RATISS-DEEPDIVE) — 14 PDF deep dives (75 pages) telling the whole campaign.
 
-## 🎯 Ce que je cherche
+## 🎯 What I am looking for
 
-Des **partenaires, des mentors, un financement** — une institution, une université, un laboratoire,
-un sponsor — pour franchir les marches qui demandent de la matière : commander les ADN, monter le
-banc NV, valider au labo. Mon but : **démontrer qu'à 18 ans, depuis Yaoundé, avec un téléphone et
-une méthode honnête, on peut produire une recherche ouverte, chiffrée et reproductible** — et
-ouvrir la porte derrière moi. La démocratisation de la recherche, c'est le projet.
+**Partners, mentors, funding** — an institution, a university, a laboratory,
+a sponsor — to climb the steps that require matter: ordering the DNAs, building the
+NV bench, validating at the lab. My goal: **to demonstrate that at 18, from Yaoundé, with a phone and
+an honest method, one can produce open, quantified and reproducible research** — and
+open the door behind me. The democratization of research is the project.
 
-## 📮 Me contacter
+## 📮 Contact me
 
-- **Email** : jonathan.ratisslabs@zohomail.com
-- **Discord** : serveur RATISS Labs (demande en MP/email)
-- **ORCID** : [0009-0000-4092-5313](https://orcid.org/0009-0000-4092-5313)
-- **Site** : [jonathansearch.github.io/ratiss-labs-site](https://jonathansearch.github.io/ratiss-labs-site/)
+- **Email**: jonathan.ratisslabs@zohomail.com
+- **Discord**: RATISS Labs server (ask by DM/email)
+- **ORCID**: [0009-0000-4092-5313](https://orcid.org/0009-0000-4092-5313)
+- **Website**: [jonathansearch.github.io/ratiss-labs-site](https://jonathansearch.github.io/ratiss-labs-site/)
 
 ---
 
 <div align="center">
 
-**🧮 calcul · 🛰️ QPU — jamais mélangées. On dit toujours où le chiffre a été mesuré.**
+**🧮 computation · 🛰️ QPU — never mixed. We always say where the number was measured.**
 
-*RATISS Labs · Yaoundé · Cameroun — « On mesure, on nomme, on publie. »* 🔒
+*RATISS Labs · Yaoundé · Cameroon — "We measure, we name, we publish."* 🔒
 
 </div>
